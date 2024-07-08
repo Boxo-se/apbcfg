@@ -22,6 +22,7 @@ It is my variant of Iazers config which you can find at https://github.com/lvzxr
 
 Whats included in all variants?
 Hold to crouch, Autosprint, Black sky for Fin and WF, Jmilos input changes, Lazers graphics and localisation changes made by me with the help of Lazer.
++ Splash screen
 
 Whats different between the 3 different configs?
 Box_CFG1.3 = GC on
