@@ -20,7 +20,8 @@ Will you answer questions about the config or the config loader.
 No, I dont intend to maintane this or share newer configs. This is only to share the little I have.
 It is my variant of Iazers config which you can find at https://github.com/lvzxr/apb-reloaded
 
-
+Whats included in all variants?
+Hold to crouch, Autosprint, Black sky for Fin and WF, Jmilos input changes, Lazers graphics and localisation changes made by me with the help of Lazer.
 Box_CFG1.3 = GC on
 Box_CFG1.3stutter = GC off
 Box_CFG1.3UI = GC off - UI parts
