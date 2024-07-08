@@ -10,15 +10,15 @@ ECHO ___________________________________________________________________________
 set /p load=
 if %load%==1 (
 echo Patching normal config
-xcopy "enter file path to boxcfg"\cfg\Box_CFG1.6 "enter file path to steam common" /s /e /u /r /y /q
+xcopy "enter file path to boxcfg"\cfg\Box_CFG1.3 "enter file path to steam common" /s /e /u /r /y /q
 )
 if %load%==2 (
 echo Patching no stutter config
-xcopy "enter file path to boxcfg"\Box_CFG1.6stutter "enter file path to steam common" /s /e /u /r /y /q
+xcopy "enter file path to boxcfg"\Box_CFG1.3stutter "enter file path to steam common" /s /e /u /r /y /q
 )
 if %load%==3 (
 echo Patching no stutter config
-xcopy "enter file path to boxcfg"\Box_CFG1.6UI "enter file path to steam common" /s /e /u /r /y /q
+xcopy "enter file path to boxcfg"\Box_CFG1.3UI "enter file path to steam common" /s /e /u /r /y /q
 )
 
 echo all OK
