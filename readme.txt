@@ -1,6 +1,6 @@
 Box's config 1.3
 
-I will not take any responsability for anyone that uses this config.
+I will not take any responsibility for anyone that uses this config.
 Use on your own discretion
 
 QnA
