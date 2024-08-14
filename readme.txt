@@ -1,7 +1,8 @@
 Box's config 1.3
-
+!!!!!!!OBS!!!!!!!!
+DO NOT USE AS OF 2024-08-13
 I will not take any responsibility for anyone that uses this config.
-Use on your own discretion
+!!!!!!!OBS!!!!!!!!
 
 QnA
 
