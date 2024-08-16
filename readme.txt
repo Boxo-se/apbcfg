@@ -1,8 +1,8 @@
-Box's config 1.3
-!!!!!!!OBS!!!!!!!!
-DO NOT USE AS OF 2024-08-13
+Box's config 1.7
+
+Use your own discretion
 I will not take any responsibility for anyone that uses this config.
-!!!!!!!OBS!!!!!!!!
+
 
 QnA
 
@@ -18,14 +18,13 @@ All it does is copy the files from destination x to y. You can use it by chaning
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy
 
 Will you answer questions about the config or the config loader.
-No, I dont intend to maintane this or share newer configs. This is only to share the little I have.
+No, I dont intend to support, maintane or share anything more than whats in this config.
 It is my variant of Iazers config which you can find at https://github.com/lvzxr/apb-reloaded
 
 Whats included in all variants?
-Hold to crouch, Autosprint, Black sky for Fin and WF, Jmilos input changes, Lazers graphics and localisation changes made by me with the help of Lazer.
-+ Splash screen
+Hold to crouch, Autosprint, Jmilos input changes, Lazers graphics and localisation changes made by me with the help of Lazer.
 
 Whats different between the 3 different configs?
-Box_CFG1.3 = GC on
-Box_CFG1.3stutter = GC off
-Box_CFG1.3UI = GC off - UI parts
+Box_CFG1.7 = GC on
+Box_CFG1.7stutter = GC off
+Box_CFG1.7UI = GC off - UI parts
